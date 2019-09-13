@@ -1,0 +1,6 @@
+Process Number 0 Greeting is running at Sun Apr 21 15:08:54 EET 2019
+Process Number 0 Greeting is finished at Sun Apr 21 15:08:59 EET 2019
+
+Process Number 1 Joke is running at Sun Apr 21 15:09:03 EET 2019
+Process Number 1 Joke is finished at Sun Apr 21 15:09:04 EET 2019
+
